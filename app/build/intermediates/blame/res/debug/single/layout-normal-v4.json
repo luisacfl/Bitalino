@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_channels_listview.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/dialog_channels_listview.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/toast_info.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/toast_info.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/li_active_channels.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/li_active_channels.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/ly_new_recording.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/ly_new_recording.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/ly_configurations.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/ly_configurations.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/ly_recordings.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/ly_recordings.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_help.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/dialog_help.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/ly_new_configuration.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/ly_new_configuration.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/in_ly_buttons.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/in_ly_buttons.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_newrecording_backbutton_content.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/dialog_newrecording_backbutton_content.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_about.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/dialog_about.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/in_ly_graph.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/in_ly_graph.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/li_recording.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/li_recording.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_custom_title.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/dialog_custom_title.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/li_channels_to_display.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/li_channels_to_display.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_confirmation_content.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/dialog_confirmation_content.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/toast_error.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/toast_error.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/header_shadow.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/header_shadow.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_recording_name_content.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/dialog_recording_name_content.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/li_configuration.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/li_configuration.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/ly_home.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/ly_home.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/layout-normal-v4/in_ly_graph_details.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/layout-normal/in_ly_graph_details.xml"
+    }
+]

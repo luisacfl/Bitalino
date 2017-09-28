@@ -1,0 +1,4 @@
+#Wed Sep 27 09:34:44 CDT 2017
+base.0=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

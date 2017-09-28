@@ -1,0 +1,25 @@
+#Wed Sep 27 09:34:43 CDT 2017
+renamed.7=classes6.dex
+renamed.6=classes7.dex
+renamed.5=classes4.dex
+renamed.4=classes5.dex
+renamed.3=classes8.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.7=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_97e1f8488acf46f21fba4026e111f69cd8f2b90b
+base.6=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-android-4.47_e154042d444f40a2b0c384290a6b8ef2a2c92737
+base.5=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/graphview_256d573a423eff093476f6ad5585b76dd23d68fa
+base.4=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/javax.persistence_2.1.0.v201304241213_8557b7b234a8181c8709fb3102f80e279ddc4d65
+base.3=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-core-4.47_6ee1cde1cc0b5567cb55c6a4e3ee05c1d19cc0fb
+base.2=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.haarman.listviewanimations-2.5.1_21a4d948ec30df742012249c92df000045d5ea62
+base.1=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_5438fc06903fbe45a2079ea5ec73aa7c744719c4
+base.0=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_0712698894a2cde323ec6f213e4ef6c8fdeb8b1c
+file.7=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_97e1f8488acf46f21fba4026e111f69cd8f2b90b/classes.dex
+file.6=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-android-4.47_e154042d444f40a2b0c384290a6b8ef2a2c92737/classes.dex
+file.5=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/graphview_256d573a423eff093476f6ad5585b76dd23d68fa/classes.dex
+file.4=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/javax.persistence_2.1.0.v201304241213_8557b7b234a8181c8709fb3102f80e279ddc4d65/classes.dex
+file.3=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-core-4.47_6ee1cde1cc0b5567cb55c6a4e3ee05c1d19cc0fb/classes.dex
+file.2=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.haarman.listviewanimations-2.5.1_21a4d948ec30df742012249c92df000045d5ea62/classes.dex
+file.1=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_5438fc06903fbe45a2079ea5ec73aa7c744719c4/classes.dex
+file.0=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_0712698894a2cde323ec6f213e4ef6c8fdeb8b1c/classes.dex

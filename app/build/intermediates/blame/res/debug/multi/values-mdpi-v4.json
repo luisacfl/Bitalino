@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 52,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 54,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 54,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 58,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 58,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 65,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 65,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 44,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 44,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 53,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 53,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 50,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 696,
+                        "endColumn": 47,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 62,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 62,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 58,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 58,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 52,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values-mdpi/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 52,
+                        "endOffset": 500
+                    }
+                }
+            }
+        ]
+    }
+]

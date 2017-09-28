@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/menu/global_menu.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/menu/global_menu.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/menu/new_recording_menu.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/menu/new_recording_menu.xml"
+    }
+]

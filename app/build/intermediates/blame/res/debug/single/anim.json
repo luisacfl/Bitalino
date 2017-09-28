@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_in_bottom.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_in_top.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/anim/slide_out_top.xml",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/anim/slide_out_top.xml"
+    }
+]

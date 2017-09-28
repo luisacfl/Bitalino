@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/browse.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/browse.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher_new.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/ic_launcher_new.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/start.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/start.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/info.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/info.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/zoom_in.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/zoom_in.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/chronometer.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/chronometer.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/select.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/select.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/new_configuration.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/new_configuration.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/zoom_out.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/zoom_out.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/share.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/share.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/right_arrow.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/res/merged/debug/drawable-mdpi/error.png",
+        "source": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/drawable-mdpi/error.png"
+    }
+]

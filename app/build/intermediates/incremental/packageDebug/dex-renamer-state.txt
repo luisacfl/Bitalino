@@ -1,0 +1,7 @@
+#Wed Sep 27 09:34:44 CDT 2017
+base.0=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c3af761d1d40ff94e8db0f52e5c450efe822d8fd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e666496c771d23041599ddcecd62cb6fb603f43/classes.dex
+base.1=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e666496c771d23041599ddcecd62cb6fb603f43
+file.0=/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c3af761d1d40ff94e8db0f52e5c450efe822d8fd/classes.dex

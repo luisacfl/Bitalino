@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_5438fc06903fbe45a2079ea5ec73aa7c744719c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2bf8cb75a6d467911b68378c649a5941f2b76ea">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c3af761d1d40ff94e8db0f52e5c450efe822d8fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e666496c771d23041599ddcecd62cb6fb603f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/libs/com.haarman.listviewanimations-2.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61b94ed76a675ca3d6aa882e7d0a0fdc56a73cd2">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/com.haarman.listviewanimations-2.5.1_21a4d948ec30df742012249c92df000045d5ea62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/libs/ormlite-core-4.47.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7e4a46e580e11764d3c296cad61cd9d708c96c8">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-core-4.47_6ee1cde1cc0b5567cb55c6a4e3ee05c1d19cc0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/libs/javax.persistence_2.1.0.v201304241213.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5bab675816dbe0f64bb86004b108bf2a00292358">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/javax.persistence_2.1.0.v201304241213_8557b7b234a8181c8709fb3102f80e279ddc4d65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67a612e91a8c7f89536d5cf896fdfef7269a285d">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_0712698894a2cde323ec6f213e4ef6c8fdeb8b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_97e1f8488acf46f21fba4026e111f69cd8f2b90b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/libs/ormlite-android-4.47.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72f9ed54d8a8bab3fbf56da2b358308a67899a4">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-android-4.47_e154042d444f40a2b0c384290a6b8ef2a2c92737/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/libs/graphview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2ca185f137351fbef9d2c0eca2b3f12a4cd3b4bc">
+        <dex dex="/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/transforms/dex/debug/folders/1000/2/graphview_256d573a423eff093476f6ad5585b76dd23d68fa/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,3348 @@
+[
+    {
+        "outputFile": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 12300,
+                        "endLine": 197,
+                        "endColumn": 19,
+                        "endOffset": 12542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endLine": 24,
+                    "endColumn": 19,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 12579,
+                        "endLine": 214,
+                        "endColumn": 19,
+                        "endOffset": 13133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endLine": 30,
+                    "endColumn": 19,
+                    "endOffset": 1020
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 13169,
+                        "endLine": 222,
+                        "endColumn": 19,
+                        "endOffset": 13333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1025,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 13374,
+                        "endLine": 230,
+                        "endColumn": 19,
+                        "endOffset": 13533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 49,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 49,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 38,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 38,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endColumn": 42,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 42,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endColumn": 42,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 42,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 42,
+                    "endOffset": 1402
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 42,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1407,
+                    "endColumn": 42,
+                    "endOffset": 1445
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 42,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1450,
+                    "endColumn": 42,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 42,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 42,
+                    "endOffset": 1531
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 42,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1536,
+                    "endColumn": 42,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 42,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 49,
+                    "endOffset": 1624
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 49,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1629,
+                    "endColumn": 46,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 644,
+                        "endColumn": 46,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 39,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 39,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 38,
+                    "endOffset": 1750
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 38,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1755,
+                    "endColumn": 44,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 44,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endColumn": 44,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 44,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 47,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 47,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2070,
+                    "endColumn": 54,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 54,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endColumn": 55,
+                    "endOffset": 2176
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/tags.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2181,
+                    "endColumn": 53,
+                    "endOffset": 2230
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/tags.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 53,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2235,
+                    "endColumn": 46,
+                    "endOffset": 2277
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 46,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2282,
+                    "endColumn": 128,
+                    "endOffset": 2406
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 10552,
+                        "endColumn": 128,
+                        "endOffset": 10676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2411,
+                    "endColumn": 89,
+                    "endOffset": 2496
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 10462,
+                        "endColumn": 89,
+                        "endOffset": 10547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2501,
+                    "endColumn": 181,
+                    "endOffset": 2678
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 10857,
+                        "endColumn": 181,
+                        "endOffset": 11034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2683,
+                    "endColumn": 175,
+                    "endOffset": 2854
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 10681,
+                        "endColumn": 175,
+                        "endOffset": 10852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2859,
+                    "endColumn": 121,
+                    "endOffset": 2976
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 11285,
+                        "endColumn": 121,
+                        "endOffset": 11402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2981,
+                    "endColumn": 123,
+                    "endOffset": 3100
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 11161,
+                        "endColumn": 123,
+                        "endOffset": 11280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3105,
+                    "endColumn": 121,
+                    "endOffset": 3222
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 11039,
+                        "endColumn": 121,
+                        "endOffset": 11156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3227,
+                    "endColumn": 53,
+                    "endOffset": 3276
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 11407,
+                        "endColumn": 53,
+                        "endOffset": 11456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3281,
+                    "endColumn": 71,
+                    "endOffset": 3348
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 11852,
+                        "endColumn": 71,
+                        "endOffset": 11919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3353,
+                    "endColumn": 59,
+                    "endOffset": 3408
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 11680,
+                        "endColumn": 59,
+                        "endOffset": 11735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3413,
+                    "endColumn": 55,
+                    "endOffset": 3464
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 11564,
+                        "endColumn": 55,
+                        "endOffset": 11615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3469,
+                    "endColumn": 57,
+                    "endOffset": 3522
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 11740,
+                        "endColumn": 57,
+                        "endOffset": 11793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3527,
+                    "endColumn": 59,
+                    "endOffset": 3582
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 11620,
+                        "endColumn": 59,
+                        "endOffset": 11675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3587,
+                    "endColumn": 63,
+                    "endOffset": 3646
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 11500,
+                        "endColumn": 63,
+                        "endOffset": 11559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3651,
+                    "endColumn": 53,
+                    "endOffset": 3700
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 11798,
+                        "endColumn": 53,
+                        "endOffset": 11847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 87,
+                    "endOffset": 3788
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 11996,
+                        "endColumn": 87,
+                        "endOffset": 12079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3793,
+                    "endColumn": 66,
+                    "endOffset": 3855
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 11929,
+                        "endColumn": 66,
+                        "endOffset": 11991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3860,
+                    "endColumn": 61,
+                    "endOffset": 3917
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2802,
+                        "endColumn": 61,
+                        "endOffset": 2859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3922,
+                    "endColumn": 74,
+                    "endOffset": 3992
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4168,
+                        "endColumn": 74,
+                        "endOffset": 4238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3997,
+                    "endColumn": 112,
+                    "endOffset": 4105
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3072,
+                        "endColumn": 112,
+                        "endOffset": 3180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4110,
+                    "endColumn": 61,
+                    "endOffset": 4167
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3248,
+                        "endColumn": 61,
+                        "endOffset": 3305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4172,
+                    "endColumn": 62,
+                    "endOffset": 4230
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3185,
+                        "endColumn": 62,
+                        "endOffset": 3243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4235,
+                    "endColumn": 65,
+                    "endOffset": 4296
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3006,
+                        "endColumn": 65,
+                        "endOffset": 3067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4301,
+                    "endColumn": 82,
+                    "endOffset": 4379
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4318,
+                        "endColumn": 82,
+                        "endOffset": 4396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4384,
+                    "endColumn": 74,
+                    "endOffset": 4454
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4243,
+                        "endColumn": 74,
+                        "endOffset": 4313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4459,
+                    "endColumn": 105,
+                    "endOffset": 4560
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4057,
+                        "endColumn": 105,
+                        "endOffset": 4158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4565,
+                    "endColumn": 146,
+                    "endOffset": 4707
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3758,
+                        "endColumn": 146,
+                        "endOffset": 3900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4712,
+                    "endColumn": 67,
+                    "endOffset": 4775
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3310,
+                        "endColumn": 67,
+                        "endOffset": 3373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4780,
+                    "endColumn": 126,
+                    "endOffset": 4902
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3505,
+                        "endColumn": 126,
+                        "endOffset": 3627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4907,
+                    "endColumn": 125,
+                    "endOffset": 5028
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3632,
+                        "endColumn": 125,
+                        "endOffset": 3753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5033,
+                    "endColumn": 126,
+                    "endOffset": 5155
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3378,
+                        "endColumn": 126,
+                        "endOffset": 3500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5160,
+                    "endColumn": 146,
+                    "endOffset": 5302
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3905,
+                        "endColumn": 146,
+                        "endOffset": 4047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5307,
+                    "endColumn": 66,
+                    "endOffset": 5369
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2735,
+                        "endColumn": 66,
+                        "endOffset": 2797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5374,
+                    "endColumn": 73,
+                    "endOffset": 5443
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2864,
+                        "endColumn": 73,
+                        "endOffset": 2933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5448,
+                    "endColumn": 67,
+                    "endOffset": 5511
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2938,
+                        "endColumn": 67,
+                        "endOffset": 3001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5516,
+                    "endColumn": 44,
+                    "endOffset": 5556
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4446,
+                        "endColumn": 44,
+                        "endOffset": 4486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5561,
+                    "endColumn": 46,
+                    "endOffset": 5603
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4491,
+                        "endColumn": 46,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5608,
+                    "endColumn": 63,
+                    "endOffset": 5667
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 63,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5672,
+                    "endColumn": 81,
+                    "endOffset": 5749
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 12157,
+                        "endColumn": 81,
+                        "endOffset": 12234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5754,
+                    "endColumn": 46,
+                    "endOffset": 5796
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 12110,
+                        "endColumn": 46,
+                        "endOffset": 12152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5801,
+                    "endColumn": 57,
+                    "endOffset": 5854
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 57,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5859,
+                    "endColumn": 65,
+                    "endOffset": 5920
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 65,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5925,
+                    "endColumn": 42,
+                    "endOffset": 5963
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 5,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5968,
+                    "endColumn": 40,
+                    "endOffset": 6004
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 5,
+                        "startOffset": 727,
+                        "endColumn": 41,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 6009,
+                    "endColumn": 135,
+                    "endOffset": 6140
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 5,
+                        "startOffset": 871,
+                        "endColumn": 136,
+                        "endOffset": 1002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 6145,
+                    "endColumn": 50,
+                    "endOffset": 6191
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 5,
+                        "startOffset": 819,
+                        "endColumn": 51,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 6196,
+                    "endColumn": 48,
+                    "endOffset": 6240
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 677,
+                        "endColumn": 49,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 6245,
+                    "endColumn": 54,
+                    "endOffset": 6295
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 54,
+                        "endOffset": 1451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 6300,
+                    "endColumn": 56,
+                    "endOffset": 6352
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1456,
+                        "endColumn": 56,
+                        "endOffset": 1508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6357,
+                    "endColumn": 159,
+                    "endOffset": 6512
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1241,
+                        "endColumn": 159,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6517,
+                    "endColumn": 45,
+                    "endOffset": 6558
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 45,
+                        "endOffset": 1236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6563,
+                    "endColumn": 48,
+                    "endOffset": 6607
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 48,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6612,
+                    "endColumn": 89,
+                    "endOffset": 6697
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 8297,
+                        "endColumn": 89,
+                        "endOffset": 8382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6702,
+                    "endColumn": 51,
+                    "endOffset": 6749
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6375,
+                        "endColumn": 51,
+                        "endOffset": 6422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6754,
+                    "endColumn": 43,
+                    "endOffset": 6793
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6427,
+                        "endColumn": 43,
+                        "endOffset": 6466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6798,
+                    "endColumn": 45,
+                    "endOffset": 6839
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6471,
+                        "endColumn": 45,
+                        "endOffset": 6512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6844,
+                    "endColumn": 81,
+                    "endOffset": 6921
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6517,
+                        "endColumn": 81,
+                        "endOffset": 6594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6926,
+                    "endColumn": 51,
+                    "endOffset": 6973
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6684,
+                        "endColumn": 51,
+                        "endOffset": 6731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6978,
+                    "endColumn": 84,
+                    "endOffset": 7058
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 6599,
+                        "endColumn": 84,
+                        "endOffset": 6679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 7063,
+                    "endColumn": 51,
+                    "endOffset": 7110
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 6736,
+                        "endColumn": 51,
+                        "endOffset": 6783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 7115,
+                    "endColumn": 74,
+                    "endOffset": 7185
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 6793,
+                        "endColumn": 74,
+                        "endOffset": 6863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7190,
+                    "endColumn": 68,
+                    "endOffset": 7254
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 5859,
+                        "endColumn": 68,
+                        "endOffset": 5923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 7259,
+                    "endColumn": 54,
+                    "endOffset": 7309
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 8242,
+                        "endColumn": 54,
+                        "endOffset": 8292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 7314,
+                    "endColumn": 60,
+                    "endOffset": 7370
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 8117,
+                        "endColumn": 60,
+                        "endOffset": 8173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7375,
+                    "endColumn": 60,
+                    "endOffset": 7431
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 8056,
+                        "endColumn": 60,
+                        "endOffset": 8112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 7436,
+                    "endColumn": 94,
+                    "endOffset": 7526
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 7961,
+                        "endColumn": 94,
+                        "endOffset": 8051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 7531,
+                    "endColumn": 92,
+                    "endOffset": 7619
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 7868,
+                        "endColumn": 92,
+                        "endOffset": 7956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 7624,
+                    "endColumn": 63,
+                    "endOffset": 7683
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 8178,
+                        "endColumn": 63,
+                        "endOffset": 8237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7688,
+                    "endColumn": 104,
+                    "endOffset": 7788
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 7106,
+                        "endColumn": 104,
+                        "endOffset": 7206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 7793,
+                    "endColumn": 99,
+                    "endOffset": 7888
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6868,
+                        "endColumn": 99,
+                        "endOffset": 6963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7893,
+                    "endColumn": 68,
+                    "endOffset": 7957
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 6968,
+                        "endColumn": 68,
+                        "endOffset": 7032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7962,
+                    "endColumn": 94,
+                    "endOffset": 8052
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 7460,
+                        "endColumn": 94,
+                        "endOffset": 7550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 8057,
+                    "endColumn": 97,
+                    "endOffset": 8150
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 7555,
+                        "endColumn": 97,
+                        "endOffset": 7648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8155,
+                    "endColumn": 68,
+                    "endOffset": 8219
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 7391,
+                        "endColumn": 68,
+                        "endOffset": 7455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 8224,
+                    "endColumn": 93,
+                    "endOffset": 8313
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 7297,
+                        "endColumn": 93,
+                        "endOffset": 7386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 8318,
+                    "endColumn": 85,
+                    "endOffset": 8399
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 7211,
+                        "endColumn": 85,
+                        "endOffset": 7292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 8404,
+                    "endColumn": 68,
+                    "endOffset": 8468
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 7037,
+                        "endColumn": 68,
+                        "endOffset": 7101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 8473,
+                    "endColumn": 52,
+                    "endOffset": 8521
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6187,
+                        "endColumn": 52,
+                        "endOffset": 6235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 8526,
+                    "endColumn": 72,
+                    "endOffset": 8594
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6049,
+                        "endColumn": 72,
+                        "endOffset": 6117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 8599,
+                    "endColumn": 64,
+                    "endOffset": 8659
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6122,
+                        "endColumn": 64,
+                        "endOffset": 6182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 8664,
+                    "endColumn": 70,
+                    "endOffset": 8730
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 6240,
+                        "endColumn": 70,
+                        "endOffset": 6306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 8735,
+                    "endColumn": 63,
+                    "endOffset": 8794
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6311,
+                        "endColumn": 63,
+                        "endOffset": 6370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 8799,
+                    "endColumn": 61,
+                    "endOffset": 8856
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5797,
+                        "endColumn": 61,
+                        "endOffset": 5854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 8861,
+                    "endColumn": 67,
+                    "endOffset": 8924
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 7800,
+                        "endColumn": 67,
+                        "endOffset": 7863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 8929,
+                    "endColumn": 65,
+                    "endOffset": 8990
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 7653,
+                        "endColumn": 65,
+                        "endOffset": 7714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 8995,
+                    "endColumn": 80,
+                    "endOffset": 9071
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 7719,
+                        "endColumn": 80,
+                        "endOffset": 7795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 9076,
+                    "endColumn": 54,
+                    "endOffset": 9126
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 5928,
+                        "endColumn": 54,
+                        "endOffset": 5978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 9131,
+                    "endColumn": 65,
+                    "endOffset": 9192
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5983,
+                        "endColumn": 65,
+                        "endOffset": 6044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 9197,
+                    "endColumn": 71,
+                    "endOffset": 9264
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 71,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 9269,
+                    "endColumn": 62,
+                    "endOffset": 9327
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 62,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 9332,
+                    "endColumn": 64,
+                    "endOffset": 9392
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 8696,
+                        "endColumn": 64,
+                        "endOffset": 8756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 9397,
+                    "endColumn": 110,
+                    "endOffset": 9503
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 9589,
+                        "endColumn": 110,
+                        "endOffset": 9695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 9508,
+                    "endColumn": 66,
+                    "endOffset": 9570
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 9818,
+                        "endColumn": 66,
+                        "endOffset": 9880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 9575,
+                    "endColumn": 62,
+                    "endOffset": 9633
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 9102,
+                        "endColumn": 62,
+                        "endOffset": 9160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 9638,
+                    "endColumn": 52,
+                    "endOffset": 9686
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 8643,
+                        "endColumn": 52,
+                        "endOffset": 8691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 9691,
+                    "endColumn": 117,
+                    "endOffset": 9804
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 9700,
+                        "endColumn": 117,
+                        "endOffset": 9813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 9809,
+                    "endColumn": 71,
+                    "endOffset": 9876
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 9885,
+                        "endColumn": 71,
+                        "endOffset": 9952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 9881,
+                    "endColumn": 81,
+                    "endOffset": 9958
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 9165,
+                        "endColumn": 81,
+                        "endOffset": 9242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 9963,
+                    "endColumn": 93,
+                    "endOffset": 10052
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 8826,
+                        "endColumn": 93,
+                        "endOffset": 8915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 10057,
+                    "endColumn": 59,
+                    "endOffset": 10112
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 8761,
+                        "endColumn": 59,
+                        "endOffset": 8816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 10117,
+                    "endColumn": 57,
+                    "endOffset": 10170
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 8920,
+                        "endColumn": 57,
+                        "endOffset": 8973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 10175,
+                    "endColumn": 70,
+                    "endOffset": 10241
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 8428,
+                        "endColumn": 70,
+                        "endOffset": 8494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 10246,
+                    "endColumn": 61,
+                    "endOffset": 10303
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 9040,
+                        "endColumn": 61,
+                        "endOffset": 9097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 10308,
+                    "endColumn": 61,
+                    "endOffset": 10365
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 8978,
+                        "endColumn": 61,
+                        "endOffset": 9035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 10370,
+                    "endColumn": 114,
+                    "endOffset": 10480
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 9402,
+                        "endColumn": 114,
+                        "endOffset": 9512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 10485,
+                    "endColumn": 71,
+                    "endOffset": 10552
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 9517,
+                        "endColumn": 71,
+                        "endOffset": 9584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 10557,
+                    "endColumn": 82,
+                    "endOffset": 10635
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 9319,
+                        "endColumn": 82,
+                        "endOffset": 9397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 10640,
+                    "endColumn": 92,
+                    "endOffset": 10728
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 10039,
+                        "endColumn": 92,
+                        "endOffset": 10127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 10733,
+                    "endColumn": 81,
+                    "endOffset": 10810
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 9957,
+                        "endColumn": 81,
+                        "endOffset": 10034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 10815,
+                    "endColumn": 72,
+                    "endOffset": 10883
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 8499,
+                        "endColumn": 72,
+                        "endOffset": 8567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 10888,
+                    "endColumn": 58,
+                    "endOffset": 10942
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 5,
+                        "startOffset": 1014,
+                        "endColumn": 59,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 10947,
+                    "endColumn": 61,
+                    "endOffset": 11004
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 5,
+                        "startOffset": 1074,
+                        "endColumn": 62,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 11009,
+                    "endColumn": 70,
+                    "endOffset": 11075
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 8572,
+                        "endColumn": 70,
+                        "endOffset": 8638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 11080,
+                    "endColumn": 103,
+                    "endOffset": 11179
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 10200,
+                        "endColumn": 103,
+                        "endOffset": 10299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 11184,
+                    "endColumn": 112,
+                    "endOffset": 11292
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 10304,
+                        "endColumn": 112,
+                        "endOffset": 10412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 11297,
+                    "endColumn": 67,
+                    "endOffset": 11360
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 10132,
+                        "endColumn": 67,
+                        "endOffset": 10195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 11365,
+                    "endColumn": 71,
+                    "endOffset": 11432
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 9247,
+                        "endColumn": 71,
+                        "endOffset": 9314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 11437,
+                    "endColumn": 83,
+                    "endOffset": 11516
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4951,
+                        "endColumn": 83,
+                        "endOffset": 5030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 11521,
+                    "endColumn": 61,
+                    "endOffset": 11578
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5098,
+                        "endColumn": 61,
+                        "endOffset": 5155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 11583,
+                    "endColumn": 62,
+                    "endOffset": 11641
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5035,
+                        "endColumn": 62,
+                        "endOffset": 5093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 11646,
+                    "endColumn": 65,
+                    "endOffset": 11707
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4885,
+                        "endColumn": 65,
+                        "endOffset": 4946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 11712,
+                    "endColumn": 215,
+                    "endOffset": 11923
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5531,
+                        "endColumn": 215,
+                        "endOffset": 5742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 11928,
+                    "endColumn": 86,
+                    "endOffset": 12010
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5444,
+                        "endColumn": 86,
+                        "endOffset": 5526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 12015,
+                    "endColumn": 49,
+                    "endOffset": 12060
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4776,
+                        "endColumn": 49,
+                        "endOffset": 4821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 12065,
+                    "endColumn": 65,
+                    "endOffset": 12126
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4638,
+                        "endColumn": 65,
+                        "endOffset": 4699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 12131,
+                    "endColumn": 139,
+                    "endOffset": 12266
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5160,
+                        "endColumn": 139,
+                        "endOffset": 5295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 12271,
+                    "endColumn": 143,
+                    "endOffset": 12410
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5300,
+                        "endColumn": 143,
+                        "endOffset": 5439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 12415,
+                    "endColumn": 61,
+                    "endOffset": 12472
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4576,
+                        "endColumn": 61,
+                        "endOffset": 4633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 12477,
+                    "endColumn": 66,
+                    "endOffset": 12539
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4709,
+                        "endColumn": 66,
+                        "endOffset": 4771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 12544,
+                    "endColumn": 58,
+                    "endOffset": 12598
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4826,
+                        "endColumn": 58,
+                        "endOffset": 4880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 12603,
+                    "endColumn": 71,
+                    "endOffset": 12670
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 71,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 12675,
+                    "endColumn": 55,
+                    "endOffset": 12726
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 55,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 12731,
+                    "endColumn": 66,
+                    "endOffset": 12793
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1549,
+                        "endColumn": 66,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 12798,
+                    "endColumn": 145,
+                    "endOffset": 12939
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endColumn": 145,
+                        "endOffset": 1955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 12944,
+                    "endColumn": 74,
+                    "endOffset": 13014
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1672,
+                        "endColumn": 74,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 13019,
+                    "endColumn": 162,
+                    "endOffset": 13177
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2177,
+                        "endColumn": 162,
+                        "endOffset": 2335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 13182,
+                    "endColumn": 74,
+                    "endOffset": 13252
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2102,
+                        "endColumn": 74,
+                        "endOffset": 2172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 13257,
+                    "endColumn": 55,
+                    "endOffset": 13308
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1616,
+                        "endColumn": 55,
+                        "endOffset": 1667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 13313,
+                    "endColumn": 137,
+                    "endOffset": 13446
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1960,
+                        "endColumn": 137,
+                        "endOffset": 2093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 13451,
+                    "endColumn": 66,
+                    "endOffset": 13513
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1747,
+                        "endColumn": 66,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 13518,
+                    "endColumn": 89,
+                    "endOffset": 13603
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2457,
+                        "endColumn": 89,
+                        "endOffset": 2542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 13608,
+                    "endColumn": 59,
+                    "endOffset": 13663
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endColumn": 59,
+                        "endOffset": 2452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 13668,
+                    "endColumn": 84,
+                    "endOffset": 13748
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2608,
+                        "endColumn": 84,
+                        "endOffset": 2688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 13753,
+                    "endColumn": 56,
+                    "endOffset": 13805
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2340,
+                        "endColumn": 56,
+                        "endOffset": 2392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 13810,
+                    "endColumn": 60,
+                    "endOffset": 13866
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2547,
+                        "endColumn": 60,
+                        "endOffset": 2603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 13871,
+                    "endColumn": 61,
+                    "endOffset": 13928
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 2,
+                        "startOffset": 13554,
+                        "endColumn": 59,
+                        "endOffset": 13611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 13933,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 14219
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 14224,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 14379
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 14384,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 14707
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1088,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 14712,
+                    "endColumn": 35,
+                    "endOffset": 14743
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 36,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 14748,
+                    "endLine": 227,
+                    "endColumn": 12,
+                    "endOffset": 15079
+                },
+                "from": {
+                    "file": "/Users/luisacfl/Documents/5to Semestre/Moviles/Arduino/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1082
+                    }
+                }
+            }
+        ]
+    }
+]
